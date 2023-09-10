@@ -1,0 +1,11 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=org.kde.falkon.desktop;
+x-scheme-handler/https=org.kde.falkon.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=org.kde.falkon.desktop;
+x-scheme-handler/https=org.kde.falkon.desktop;

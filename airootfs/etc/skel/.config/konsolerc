@@ -1,0 +1,28 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+
+[MainWindow]
+1600x900 screen: Height=632
+1600x900 screen: Width=1031
+1600x900 screen: XPosition=284
+1600x900 screen: YPosition=145
+LVDS-1=LVDS-1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXwBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABFQEAAAMAAAQHAAACeAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar sessionToolbar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[UiSettings]
+ColorScheme=
