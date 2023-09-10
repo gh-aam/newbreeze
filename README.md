@@ -1,2 +1,3 @@
 # magpieOS
-A beginner-friendly operating system based on Linux kernel (Final year project of ISTT).
+
+A beginner-friendly Arch Linux distribution (Final year project of ISTT).
