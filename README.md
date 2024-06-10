@@ -12,3 +12,9 @@ Modify (update) and build it using the following command, if you still want to t
 ```
 mkarchiso -v .
 ```
+
+# Credit
+* [Arch Linux](https://archlinux.org)
+* [ArchWiki](https://wiki.archlinux.org)
+* [ArcoLinux](https://arcolinux.com)
+* [ALG (Arch Linux GUI)](https://github.com/arch-linux-gui)
