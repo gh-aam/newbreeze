@@ -1,7 +1,6 @@
 # Get NewBreeze
-[Download Now!](https://mega.nz/file/nYkUTYaR#GYa72xw-ExYjqsgAdmvWlzKjHTVyOL_sCOPxXlIkcA0)
 
-# Status (Negative)
+## Status (Negative)
 * Not production ready (fun project)
 * Need to update
 * Some `magpieOS` specific configurations exist, have to update to `NewBreeze` specific configurations
@@ -13,7 +12,7 @@ Modify (update) and build it using the following command, if you still want to t
 mkarchiso -v .
 ```
 
-# Credit
+## Credit
 * [Arch Linux](https://archlinux.org)
 * [ArchWiki](https://wiki.archlinux.org)
 * [ArcoLinux](https://arcolinux.com)
