@@ -1,4 +1,4 @@
-# Get NewBreeze
+# NewBreeze
 
 ## Status (Negative)
 * Not production ready (fun project)
